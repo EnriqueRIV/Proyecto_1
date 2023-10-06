@@ -26,3 +26,7 @@ De igual manera que con el proyecto 1 obligatorio, esta página se encuentra des
 https://voluble-stardust-c74a7d.netlify.app
 
 Esta página también esta disponible para las 3 vistas PC, Tablet y Mobile.
+
+
+06/10/2023
+Update de index.css del proyecto_1, realizando los cambios aconsejados añadiendo "scroll-behavior: smooth" a las propiedades globales y corrigiendo el "width" del select de pais a un valor fijo y además se corrigio el "width" del contenedor de este elemento quien era el que estaba causando el desfase de ancho.
